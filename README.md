@@ -12,4 +12,12 @@ This sample show datas and repetition numbers
 
 Task 2
 
-Building a simple API to scrape amazon page
+Building a simple API to scrape amazon page. It takes name and price data of listed products. API system will take these scraped name and prices data and show them on a local webpage
+
+It uses Flask and Selenium library and need ChromeDriver to run it (Has to be added to the path). 
+
+To activate those libraries, user must run "pip install selenium" and "pip install flask" commands before running this project
+
+Console sample
+
+![neurocess2](https://user-images.githubusercontent.com/52248684/180662631-07df2d70-7a4b-4015-bd25-f2baa2d9d2f0.png)
